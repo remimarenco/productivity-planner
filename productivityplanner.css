@@ -9,3 +9,13 @@
 .h4_centered{
     text-align: center;
 }
+
+.tomato_box{
+    border-style: dotted;
+    border-width: thin;
+    padding: 5px;
+}
+
+.task_input{
+
+}
